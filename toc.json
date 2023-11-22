@@ -262,25 +262,5 @@
         "title": "Exercise 6"
       }
     ]
-  },
-  {
-    "groupName": "difficult",
-    "folderName": "40_difficult",
-    "children": [
-      {
-        "id": "9NAlZsP8Gvp8Ndq9IDqs6UebTa4=",
-        "mf": "C11H11NO4",
-        "idCodeHash": "95f79026af34ed85c66a39efb1382921",
-        "file": "./40_difficult/70_Exercise 1/index.json",
-        "title": "Exercise 1"
-      },
-      {
-        "id": "LkfqCTXAYdzqpgyVoz+A9JqJpUY=",
-        "mf": "C13H12N2O",
-        "idCodeHash": "ea365ee7b1e3b8d8296a12c5bbd9dac2",
-        "file": "./40_difficult/380_Exercise 2/index.json",
-        "title": "Exercise 2"
-      }
-    ]
   }
 ]
